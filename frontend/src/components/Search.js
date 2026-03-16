@@ -1,3 +1,5 @@
+// Search.js
+
 import React, { useState } from "react";
 
 const Search = ({ onSubmit, searchHandler, message, initData }) => {
